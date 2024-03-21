@@ -3,9 +3,99 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <title>Irtiza - Portfolio</title>
 </head>
 <body>
+<!-- Navigation bar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Irtiza</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="#hero">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#work">Work</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#skills">Skills</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#about">About/Contact</a>
+              </li>
+            </ul>
+            
+        </div>
+    </nav>
+
+    <!-- Hero section -->
+    <section id="hero" class="jumbotron text-center">
+    <div class="container">
+        <img src="./images/profile.png" alt="Your Picture" class="rounded-circle">
+        <h1 class="display-4">Irtiza.S</h1>
+        <p class="lead">Frontend Engineer</p>
+    </div>
+    </section>
+
+  <!-- Work section -->
+  <section id="work" class="container">
+    <h2 class="text-center mb-4">Work</h2>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="card mb-4">
+          <img src="https://placehold.co/300x200" class="card-img-top" alt="Project 1">
+          <div class="card-body">
+            <h5 class="card-title">Project 1</h5>
+            <p class="card-text">Brief overview of the project.</p>
+            <a href="#" class="btn btn-primary">View Project</a>
+          </div>
+        </div>
+      </div>
+      <!-- Add more cards for other projects -->
+    </div>
+  </section>
+
+    <!-- Skills section -->
+    <section id="skills" class="container">
+        <h2 class="text-center mb-4">Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Bootstrap</li>
+            <li>JavaScript</li>
+            <li>JQuery</li>
+            <li>React.JS</li>
+        </ul>
+    </section>
     
+    
+  <!-- About/Contact section -->
+  <section id="about" class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h2>About Me</h2>
+        <p>Some information about yourself.</p>
+      </div>
+      <div class="col-md-6">
+        <h2>Contact</h2>
+        <p>Email: your.email@example.com<br>Phone: +1234567890</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer section -->
+  <footer class="bg-dark text-light text-center py-3">
+    <p>&copy; 2024 - Irtiza.S</p>
+  </footer>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
