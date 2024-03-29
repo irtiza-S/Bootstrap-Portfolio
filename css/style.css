@@ -1,9 +1,13 @@
-
-/* reset */
-* {
+:root {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
     margin: 0;
     padding: 0; 
     box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif !important; /* Set Raleway as the default font for the entire page */
 }
 
 a {
@@ -14,16 +18,49 @@ ul, ol {
     list-style: none;
 }
 
-/* --------------- */
-
-html {
-    scroll-behavior: smooth;
-}
-
 a:hover {
     color: blue; /* Change color on hover */
-  }
-  /* For buttons */
-  .btn:hover {
+}
+
+/* For buttons */
+.btn:hover {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add box shadow on hover */
-  }
+}
+
+.lower-header-content {
+    background: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#name {
+    font: 66px;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 3px; 
+}
+
+#slogan {
+    color: #be3144;
+    font-style: italic;
+    font-size: 35px;
+}
+
+nav, footer {
+    background-color: #be3144;
+    color: white;
+}
+
+nav ul li a {
+    color: white !important;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+#profile-pic {
+    width: 250px; 
+    height: 250px;
+}
