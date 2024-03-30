@@ -24,7 +24,7 @@ presence.
 - CSS - no installation required.
 - Bootstrap - include the following CDN: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css in the index.html file.
 
-Contact
-Developer: https://github.com/irtiza-S
+## Contact
+- Developer: https://github.com/irtiza-S
 
-Website: https://irtiza-s.github.io/Bootstrap-Portfolio/
+- Website: https://irtiza-s.github.io/Bootstrap-Portfolio/
