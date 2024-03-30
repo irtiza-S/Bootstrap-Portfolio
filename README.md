@@ -5,6 +5,11 @@
 This is a portfolio website crafted using Bootstrap, a powerful front-end framework that enables rapid development of responsive and mobile-first websites. Leveraging Bootstrap's extensive library of pre-built components and flexible grid system, this portfolio showcases a seamless blend of design and functionality. From its sleek navigation to its visually appealing layout, every aspect of this website reflects the versatility and scalability of Bootstrap, ensuring an optimal viewing experience across various devices and screen sizes. Whether you're exploring projects, delving into skills, or learning more about the creator, this Bootstrap-powered portfolio provides an intuitive and engaging platform to showcase accomplishments and expertise.
 
 
+<img width="1267" alt="Screenshot 2024-03-30 000433" src="https://github.com/irtiza-S/Bootstrap-Portfolio/assets/61486852/a4d9e1ef-f023-4875-afe8-a3cd71c5a08e">
+
+
+<img width="1067" alt="Screenshot 2024-03-30 000615" src="https://github.com/irtiza-S/Bootstrap-Portfolio/assets/61486852/6bd7735a-3c52-4b8d-a055-131ee9560c2a">
+
 
 ## Usage
 
