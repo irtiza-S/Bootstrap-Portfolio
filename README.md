@@ -1,8 +1,10 @@
-# My Portfolio
+# Bootstrap Portfolio
 
 
 ## Description
 This is a portfolio website crafted using Bootstrap, a powerful front-end framework that enables rapid development of responsive and mobile-first websites. Leveraging Bootstrap's extensive library of pre-built components and flexible grid system, this portfolio showcases a seamless blend of design and functionality. From its sleek navigation to its visually appealing layout, every aspect of this website reflects the versatility and scalability of Bootstrap, ensuring an optimal viewing experience across various devices and screen sizes. Whether you're exploring projects, delving into skills, or learning more about the creator, this Bootstrap-powered portfolio provides an intuitive and engaging platform to showcase accomplishments and expertise.
+
+
 
 ## Usage
 
@@ -17,13 +19,12 @@ presence.
 
 - Responsive Design: Benefit from the responsive design of the template, ensuring your portfolio looks and functions seamlessly across a wide range of devices, from desktops to smartphones, enhancing accessibility and user experience.
 
-Installation
-Created in the following:
-HTML - no installation required.
-CSS - no installation required.
-Bootstrap - include the following CDN: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css in the index.html file.
+## Installation
+- HTML - no installation required.
+- CSS - no installation required.
+- Bootstrap - include the following CDN: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css in the index.html file.
 
 Contact
 Developer: https://github.com/irtiza-S
 
-Website: https://irtiza-s.github.io/day-scheduler/
+Website: https://irtiza-s.github.io/Bootstrap-Portfolio/
